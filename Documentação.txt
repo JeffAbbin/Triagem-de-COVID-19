@@ -1,0 +1,24 @@
+respostaSintomas()
+-reconhecimeto de voz para cliente falar sua resposta para os sintomas
+-retorna uma string com a frase que clinte falou
+
+perguntaNome()
+-inteção com o visitante para captar o seu nome 
+-retorna uma string com a frase que clinte falou
+
+usandoMascara()
+-funcao para indentificar seu visitante esta usando mascara ulição da do proprio reconehcimento de objetos do Robios
+-retorna uma boolean com true se visitante esta com mascara e false o mesmo esta sem
+
+PerguntaSitomas()
+-interaçao com visitante para perguntando com se apresenta algun sintoma e recebendo resposta dele
+-retorna uma boolean com false se visitante responde que tem algun sontoma e true com se ele responder que nao apresenta nenhum sintoma
+
+RecomendaçõesGerais()
+-interação com visitante sobre precauções com contaminação com covid
+-retorna um void
+
+entradaNegada(causa)
+-função de inteção com visitante para negar a entra do mesmo
+-cause usando string para inserir o motivo por negar a entrada 
+- retorna um void
