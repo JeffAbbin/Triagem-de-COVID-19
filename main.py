@@ -1,5 +1,6 @@
 #script triagem da COVID-19
 
+import triagem
 import paho.mqtt.client as mqtt 
 from datetime import datetime
 
