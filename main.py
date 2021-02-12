@@ -1,6 +1,6 @@
 #script triagem da COVID-19
 
-import triagem
+from fibo import *
 import paho.mqtt.client as mqtt 
 from datetime import datetime
 
